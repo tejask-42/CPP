@@ -17,6 +17,9 @@ This repository contains C++ implementations of various numerical techniques com
 * [**Solving Second-Order ODEs**](https://kyleniemeyer.github.io/ME373-book/content/second-order/numerical-methods.html): Numerical solutions using Euler and RK4 methods, including a comparison with exact solutions.  
 * [**Van der Pol Oscillator**](https://en.wikipedia.org/wiki/Van_der_Pol_oscillator): Implementation of the oscillator equations and animation using Euler and RK4 methods.  
 * [**Lorenz Attractor**](https://en.wikipedia.org/wiki/Lorenz_system): Plotting chaotic trajectories in 2D using Euler and RK4 methods, showcasing sensitivity to initial conditions.
+
+### Week 3
+* Solving [**Poisson's Equation**](https://en.wikipedia.org/wiki/Poisson%27s_equation): Numerical solutions using the [**Finite Difference Method**](https://john-s-butler-dit.github.io/NumericalAnalysisBook/Chapter%2009%20-%20Elliptic%20Equations/903_Poisson%20Equation-Boundary.html), and plotting using colormap.
   
 ## How to Use
 Clone this repository, compile, and run the executables:
