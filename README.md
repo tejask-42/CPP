@@ -20,6 +20,11 @@ This repository contains C++ implementations of various numerical techniques com
 
 ### Week 3
 * Solving [**Poisson's Equation**](https://en.wikipedia.org/wiki/Poisson%27s_equation): Numerical solutions using the [**Finite Difference Method**](https://john-s-butler-dit.github.io/NumericalAnalysisBook/Chapter%2009%20-%20Elliptic%20Equations/903_Poisson%20Equation-Boundary.html), and plotting using colormap.
+
+### Week 4
+* **Hydrogen Atom Simulation**: Solved the [**Time-Independent Schrödinger Equation**](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation#:~:text=Time%2Dindependent%20equation,-The%20time%2Ddependent&text=These%20states%20are%20particularly%20important,the%20time%2Dindependent%20Schr%C3%B6dinger%20equation.) for a hydrogen atom model using the finite-difference method and power iteration.
+* [**Energy Levels and Wavefunctions**](https://en.wikipedia.org/wiki/Hydrogen_atom#Wavefunction): Calculated and visualized the ground state and excited state energies and wavefunctions (1s, 2s, 2p).
+* [**Orbital Visualization**](https://en.wikipedia.org/wiki/Hydrogen_atom#Visualizing_the_hydrogen_electron_orbitals): Generated 2D slice plots of the probability density for the obtained hydrogen atom orbitals.
   
 ## How to Use
 Clone this repository, compile, and run the executables:
